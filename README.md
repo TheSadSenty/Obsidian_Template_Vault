@@ -1,0 +1,1 @@
+# Basic Obsidian value template
