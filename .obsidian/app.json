@@ -6,5 +6,6 @@
   "attachmentFolderPath": "./files",
   "strictLineBreaks": true,
   "showLineNumber": true,
-  "newLinkFormat": "absolute"
+  "newLinkFormat": "absolute",
+  "livePreview": false
 }
